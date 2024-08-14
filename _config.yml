@@ -4,15 +4,14 @@ description: >- # site description
   Learnings, thoughts and experiments from an Elixir software developer that also enjoys DevOps.
 lang: en-US # default lang
 timezone: Europe/Madrid # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: # site repo [optional]
+image: assets/img/og-image.jpeg
 mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
   name: Óscar de Arriba
   bio: >-
-    Learnings, thoughts and experiments from an Elixir software developer that also enjoys DevOps, meet him @ <a href="https://github.com/odarriba" target="_blank" rel="noopener">github</a> or <a href="https://x.com/odarriba" target="_blank" rel="noopener">x.com</a>.
+    Learnings, thoughts and experiments from an Elixir software developer that also enjoys DevOps, meet him at <a href="https://github.com/odarriba" target="_blank" rel="noopener">github</a> or <a href="https://x.com/odarriba" target="_blank" rel="noopener">x.com</a>.
   avatar: /assets/img/avatar.webp
 
 # URL settings
