@@ -1,9 +1,9 @@
 # Site settings
-title: Óscar de Arriba - odarriba.dev # site title
-description: >- # site description
+title: Óscar de Arriba - odarriba.dev
+description: >-
   Learnings, thoughts and experiments from an Elixir software developer that also enjoys DevOps.
-lang: en-US # default lang
-timezone: Europe/Madrid # set your timezone
+lang: en-US
+timezone: Europe/Madrid
 image: assets/img/og-image.jpeg
 mode: light # default theme "dark" | "light"
 
@@ -11,8 +11,21 @@ mode: light # default theme "dark" | "light"
 author:
   name: Óscar de Arriba
   bio: >-
-    Learnings, thoughts and experiments from an Elixir software developer that also enjoys DevOps, meet him at <a href="https://github.com/odarriba" target="_blank" rel="noopener">github</a> or <a href="https://x.com/odarriba" target="_blank" rel="noopener">x.com</a>.
+    Learnings, thoughts and experiments from an Elixir software developer that also enjoys DevOps.
   avatar: /assets/img/avatar.webp
+  links:
+    - name: GitHub
+      url: https://github.com/odarriba
+      icon: fab fa-github
+    - name: Twitter
+      url: https://x.com/odarriba
+      icon: fab fa-x-twitter
+    - name: Bluesky
+      url: https://bsky.app/profile/odarriba.dev
+      icon: fab fa-bluesky
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/oscardearriba
+      icon: fab fa-linkedin
 
 # URL settings
 url: "https://odarriba.dev"
