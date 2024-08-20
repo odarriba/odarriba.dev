@@ -1,18 +1,25 @@
 ---
-title: Colophon
+title: About me
 permalink: /about/
 layout: page
 excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Hi there! I'm a software engineer with a **strong focus on Elixir**, a language that has powered my work across various industries — from **consultancy** and **e-commerce** to **healthcare** and **travel**. My career has given me the opportunity to dive deep into different domains, solving unique challenges and building robust, scalable systems.
 
-If you have a question about him or else, just send a letter to him.
+In addition to my professional work, I’ve created [ElixirJobs](https://www.elixirjobs.net), a platform dedicated to helping Elixir developers find opportunities in the industry. I also co-authored [ErrorTracker](https://github.com/elixir-error-tracker/error-tracker), a tool designed to make error monitoring easier for Elixir developers. These projects reflect my commitment to the Elixir community and my desire to contribute meaningfully to the tools and resources we all rely on.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+My passion for technology and software engineering is what drives me every day. I love crafting **solutions that are efficient but also maintainable**. Alongside my work in software development, I have a keen interest in system administration, enjoying the complexities and rewards that come with maintaining and optimizing infrastructure.
 
-**may u needs ✨**
+Currently, **I work remotely** from Europe for [Bizneo](https://www.bizneo.com), an HR software company where I get to apply my skills to help shape the future of work.
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+When I'm not coding, you'll find me spending time with my wife María, our cat Ginebra, and our greyhound Trufa.
+
+Thanks for stopping by my page! If you’d like to connect or learn more about my work, feel free to reach out.
+
+<ul>
+  {%- for link in site.author.links -%}
+  <li><a href="{{ link.url }}" title="{{ link.name }}" target="_blank"><i class="{{ link.icon }}"></i>&nbsp;&nbsp;{{ link.name }}</a></li>
+  {%- endfor -%}
+</ul>
