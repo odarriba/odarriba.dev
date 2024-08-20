@@ -89,8 +89,8 @@
         | escape
     }}"
   />
-  {% if page.image %}
-  <meta property="og:image" content="{{ page.image | absolute_url }}" />
+  {% if page.og_image %}
+  <meta property="og:image" content="{{ page.og_image | absolute_url }}" />
   {% else %}
   <meta property="og:image" content="{{ site.image | absolute_url }}" />
   {% endif %}
@@ -122,8 +122,8 @@
         | escape
     }}"
   />
-  {% if page.image %}
-  <meta name="twitter:image" content="{{ page.image | absolute_url }}" />
+  {% if page.og_image %}
+  <meta name="twitter:image" content="{{ page.og_image | absolute_url }}" />
   {% else %}
   <meta name="twitter:image" content="{{ site.image | absolute_url }}" />
   {% endif %} {% feed_meta %}
