@@ -12,7 +12,7 @@ In addition to my professional work, I’ve created [ElixirJobs](https://www.eli
 
 My passion for technology and software engineering is what drives me every day. I love crafting **solutions that are efficient but also maintainable**. Alongside my work in software development, I have a keen interest in system administration, enjoying the complexities and rewards that come with maintaining and optimizing infrastructure.
 
-Currently, **I work remotely** from Europe for [BlueLabs](https://bluelabs.eu), an e-Gamning software company where I get to apply my skills to shape the future of the sector.
+Currently, **I work remotely** from Europe for [BlueLabs](https://bluelabs.eu), an e-gaming solutions company where I get to apply my skills to shape the future of the sector.
 
 When I'm not coding, you'll find me spending time with my wife María, our cats Ginebra and Micaela, and our greyhound Trufa.
 
