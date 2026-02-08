@@ -2,7 +2,7 @@
 title: About me
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Hi there! I'm a software engineer with a strong focus on Elixir, a language that has powered my work across various industries.
 comments: false
 ---
 
@@ -12,9 +12,9 @@ In addition to my professional work, I’ve created [ElixirJobs](https://www.eli
 
 My passion for technology and software engineering is what drives me every day. I love crafting **solutions that are efficient but also maintainable**. Alongside my work in software development, I have a keen interest in system administration, enjoying the complexities and rewards that come with maintaining and optimizing infrastructure.
 
-Currently, **I work remotely** from Europe for [Bizneo](https://www.bizneo.com), an HR software company where I get to apply my skills to help shape the future of work.
+Currently, **I work remotely** from Europe for [BlueLabs](https://bluelabs.eu), an e-Gamning software company where I get to apply my skills to shape the future of the sector.
 
-When I'm not coding, you'll find me spending time with my wife María, our cat Ginebra, and our greyhound Trufa.
+When I'm not coding, you'll find me spending time with my wife María, our cats Ginebra and Micaela, and our greyhound Trufa.
 
 Thanks for stopping by my page! If you’d like to connect or learn more about my work, feel free to reach out.
 
